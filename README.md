@@ -21,7 +21,7 @@
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
