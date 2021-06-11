@@ -6,9 +6,9 @@
 
 - 🎓 &nbsp; Studying Web Development at Lambda School.
 - 🤔 &nbsp; Exploring new technologies.
-  <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
-  <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
-  <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
+  <!-- - 💼 &nbsp;  -->
+  <!-- - 🌱 &nbsp;  -->
+  <!-- - ✍️ &nbsp;  -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
