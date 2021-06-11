@@ -20,7 +20,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
 - 🛢 &nbsp;
