@@ -14,13 +14,12 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
-  <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=563D7C) -->
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
 - 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
@@ -33,13 +32,10 @@
   <!-- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=plastic&logo=markdown) -->
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
-  <!-- ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=plastic&logo=rstudio) -->
-  <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=plastic&logo=eclipse-ide&logoColor=2C2255) -->
 - 🖥 &nbsp;
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=coreldraw)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=plastic&logo=adobe-illustrator)
-  <!-- ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=plastic&logo=adobe-indesign) -->
 
 <br/>
 
@@ -55,8 +51,5 @@
 <p align="center">
 <a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=plastic-square&logo=instagram"></a> -->
 <a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=email"></a>
 </p>
-
-<!-- ⭐️ From [fullstackcaveman](https://github.com/fullstackcaveman) -->
