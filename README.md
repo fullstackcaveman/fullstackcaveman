@@ -52,5 +52,5 @@
 <p align="center">
 <a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
-<a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Minutemailer-chris@fullstackcaveman.com-blue?style=plastic-square&logo=email"></a>
+<a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=Minutemailer"></a>
 </p>
