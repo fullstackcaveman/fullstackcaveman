@@ -1,6 +1,6 @@
 <!-- <img src=""> -->
 
-<h2> Hey there! I'm Chris.</h2>
+<h2> Hey there! I'm Chris. Welcom to my Github Profile!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
