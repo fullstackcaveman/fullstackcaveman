@@ -1,6 +1,6 @@
 <!-- <img src=""> -->
 
-<h2> Hey there! I'm Chris. Welcom to my Github Profile!</h2>
+<h2> Hey there! I'm Chris. Welcome to my Github Profile!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -18,11 +18,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
