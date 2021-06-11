@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Web Development at Lambda School.
-- 🤔 &nbsp; Exploring new technologies:&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react)
+- 🤔 &nbsp; Exploring new technologies:&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextjs)
 
   <!-- - 💼 &nbsp;  -->
   <!-- - 🌱 &nbsp;  -->
