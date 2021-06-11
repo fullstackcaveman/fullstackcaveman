@@ -23,7 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
-  ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=jsonwebtokens&logoColor=000000)
+  ![JWT](https://img.shields.io/badge/-JSONwebtokens-333333?style=plastic&logo=jsonwebtokens&logoColor=000000)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
