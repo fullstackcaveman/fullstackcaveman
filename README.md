@@ -16,9 +16,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome"></a>
+<a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
 <a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=email"></a>
 </p>
