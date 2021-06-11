@@ -15,7 +15,7 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=563D7C)
+  <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=563D7C) -->
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
@@ -34,7 +34,7 @@
   <!-- ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=plastic&logo=rstudio) -->
   <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=plastic&logo=eclipse-ide&logoColor=2C2255) -->
 - 🖥 &nbsp;
-  ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=adobe-coreldraw)
+  ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=coreldraw)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=plastic&logo=adobe-illustrator)
   <!-- ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=plastic&logo=adobe-indesign) -->
@@ -54,7 +54,7 @@
 <a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=plastic-square&logo=instagram"></a> -->
-<a href="mailto:chris.burton@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris.burton@fullstackcaveman.com-blue?style=plastic-square&logo=email"></a>
+<a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=email"></a>
 </p>
 
 <!-- ⭐️ From [fullstackcaveman](https://github.com/fullstackcaveman) -->
