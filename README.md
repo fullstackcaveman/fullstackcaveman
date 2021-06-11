@@ -39,8 +39,7 @@
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=coreldraw)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=plastic&logo=adobe-illustrator)
-- 👪 &nbsp;
-  ![Methodologies](https://img.shields.io/badge/Methodologies-Agile-blue?style=plastic)
+- ![Methodologies](https://img.shields.io/badge/Methodologies-Agile-blue?style=plastic)
 
 <br/>
 
