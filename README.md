@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Web Development at Lambda School.
-- 🤔 &nbsp; Exploring new technologies:&nbsp; - ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react)
+- 🤔 &nbsp; Exploring new technologies:&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react)
 
   <!-- - 💼 &nbsp;  -->
   <!-- - 🌱 &nbsp;  -->
@@ -24,7 +24,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
-  ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=jsonwebtokens&logoColor=000000)
+  ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=json%20web%20tokens&logoColor=000000)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
