@@ -21,7 +21,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
 - 💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=nodedotjs.svg&logoColor=339933)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node-js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
   ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=json%20web%20tokens&logoColor=000000)
