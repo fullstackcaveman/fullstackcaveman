@@ -23,6 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=Node.js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
+  ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=json%web%tokens&logoColor=000000)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
@@ -50,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
 <a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=Minutemailer"></a>
+<a href="https://www.fullstackcaveman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
 </p>
