@@ -20,7 +20,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui&logoColor=CC6699)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui)
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node-dot-js&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
