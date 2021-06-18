@@ -21,7 +21,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui)
-  ![AntD](https://img.shields.io/badge/-AntD-333333?style=plastic&logo=antd)
+  ![Ant-Design](https://img.shields.io/badge/-Ant-Design-333333?style=plastic&logo=ant-design&logoColor=0170FE)
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=nodedotjs&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
