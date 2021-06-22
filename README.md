@@ -20,8 +20,8 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui&logoColor=0081CB)
-  ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=plastic&logo=antdesign&logoColor=0170FE)
+  ![MaterialUI](https://img.shields.io/badge/-Material-UI-333333?style=plastic&logo=materialui&logoColor=0081CB)
+  ![AntDesign](https://img.shields.io/badge/-Ant Design-333333?style=plastic&logo=antdesign&logoColor=0170FE)
 - 💻 &nbsp;
   ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm&logoColor=CB3837)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=nodedotjs&logoColor=339933)
