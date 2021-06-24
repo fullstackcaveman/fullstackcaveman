@@ -42,7 +42,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman&logoColor=FF6C37)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=plastic&logo=netlify&logoColor=00C7B7)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=plastic&logo=heroku&logoColor=430098)
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=plastic&logo=vercel&logoColor=000000)
+<!--   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=plastic&logo=vercel&logoColor=000000) -->
 - 🖥 &nbsp;
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=coreldraw)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
