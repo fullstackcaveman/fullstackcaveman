@@ -31,7 +31,7 @@
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)
-  ![REST](https://img.shields.io/badge/-REST-333333?style=plastic&logo=rest&logoColor=3776AB)
+  <!-- ![REST](https://img.shields.io/badge/-REST-333333?style=plastic&logo=rest&logoColor=3776AB) -->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
