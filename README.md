@@ -25,7 +25,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
-  ![LESS](https://img.shields.io/badge/-LESS-333333?style=plastic&logo=less&logoColor=1D365D)
+  ![LESS](https://img.shields.io/badge/-LESS-333333?style=plastic&logo=less&logoColor=FFFFFF)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui&logoColor=0081CB)
   ![AntDesign](https://img.shields.io/badge/-Ant%20Design-333333?style=plastic&logo=antdesign&logoColor=1572B6)
 - 💻 &nbsp;
