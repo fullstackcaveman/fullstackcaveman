@@ -5,7 +5,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Completed Full Stack Web Development Curriculum at Lambda School.
-- 🤔 &nbsp; Exploring new technologies:&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=CC342D) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=plastic&logo=ruby-on-rails&logoColor=CC0000)
+- 🤔 &nbsp; Exploring new technologies:&nbsp; 
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) 
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=CC342D) 
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=plastic&logo=ruby-on-rails&logoColor=CC0000)
+  ![D3.js](https://img.shields.io/badge/-D3.js-333333?style=plastic&logo=d3dotjs&logoColor=F9A03C)
 
   <!-- - 💼 &nbsp;  -->
   <!-- - 🌱 &nbsp;  -->
