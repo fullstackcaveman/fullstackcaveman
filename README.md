@@ -12,9 +12,8 @@
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=plastic&logo=ruby-on-rails&logoColor=CC0000)
   ![D3.js](https://img.shields.io/badge/-D3.js-333333?style=plastic&logo=d3dotjs&logoColor=F9A03C)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=plastic&logo=socketdotio&logoColor=010101)
-
+  
   <!-- - 💼 &nbsp;  -->
-  <!-- - 🌱 &nbsp;  -->
   <!-- - ✍️ &nbsp;  -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -24,6 +23,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
+- 🌱 &nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
   ![LESS](https://img.shields.io/badge/-LESS-333333?style=plastic&logo=less&logoColor=FFFFFF)
