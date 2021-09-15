@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Completed Full Stack Web Development Curriculum at Lambda School.
+- 🎓 &nbsp; Completed Full Stack Web Development Curriculum at <a href='http://fbuy.me/v/chris_25983'>Lambda School</a>.
 - 🤔 &nbsp; Exploring new technologies:&nbsp; 
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) 
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) 
