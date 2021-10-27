@@ -55,7 +55,7 @@
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-333333?style=plastic&logo=coreldraw)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=plastic&logo=adobe-illustrator)
-
+ 
 <br/>
 
 <p align="center">
@@ -74,4 +74,4 @@
 <a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=Minutemailer"></a>
 <a href="https://www.fullstackcaveman.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
 </p>
-
+ 
