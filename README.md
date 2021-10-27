@@ -73,5 +73,5 @@
 <a href="https://www.linkedin.com/in/fullstackcaveman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fullstackcaveman-blue?style=plastic-square&logo=linkedin"></a>
 <a href="mailto:chris@fullstackcaveman.com"><img alt="Email" src="https://img.shields.io/badge/Email-chris@fullstackcaveman.com-blue?style=plastic-square&logo=Minutemailer"></a>
 <a href="https://www.fullstackcaveman.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fullstackcaveman.com-blue?style=plastic-square&logo=google-chrome&logoColor=4285F4"></a>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffullstackcaveman&count_bg=%233C4732&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
+
