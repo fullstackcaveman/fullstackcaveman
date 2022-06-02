@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; QA Lead @ QA Wolf!
+- 💻 &nbsp; QA Lead @ QA Wolf
 - 🎓 &nbsp; Completed Full Stack Web Development Curriculum at <a href='http://fullstackcaveman.com/lambda-school'>Lambda School</a>.
 - 🤔 &nbsp; Exploring new technologies:&nbsp; 
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) 
