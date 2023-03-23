@@ -31,7 +31,7 @@
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=plastic&logo=materialui&logoColor=0081CB)
   ![AntDesign](https://img.shields.io/badge/-Ant%20Design-333333?style=plastic&logo=antdesign&logoColor=1572B6)
   ![SemanticUiReact](https://img.shields.io/badge/-Semantic%20UI%20React-333333?style=plastic&logo=semanticuireact&logoColor=35BDB2)
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=plastic&logo=tailwind&logoColor=06B6D4)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=plastic&logo=tailwincssd&logoColor=06B6D4)
 - 💻 &nbsp;
   ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm&logoColor=CB3837)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=nodedotjs&logoColor=339933)
