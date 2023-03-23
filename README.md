@@ -7,8 +7,7 @@
 - 💻 &nbsp; QA Lead @ QA Wolf!
 - 🎓 &nbsp; Completed Full Stack Web Development Curriculum at <a href='http://fullstackcaveman.com/lambda-school'>Lambda School</a>.
 - 🤔 &nbsp; Exploring new technologies:&nbsp; 
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) 
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react)  
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=CC342D) 
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=plastic&logo=ruby-on-rails&logoColor=CC0000)
   ![D3.js](https://img.shields.io/badge/-D3.js-333333?style=plastic&logo=d3dotjs&logoColor=F9A03C)
@@ -23,6 +22,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) 
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
 - 🌱 &nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
