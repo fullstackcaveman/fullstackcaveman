@@ -23,6 +23,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=plastic&logo=nextdotjs&logoColor=000000) 
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=764ABC)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
 - 🌱 &nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=plastic&logo=sass&logoColor=CC6699)
@@ -35,7 +36,6 @@
   ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm&logoColor=CB3837)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=nodedotjs&logoColor=339933)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=3776AB)
   ![JWT](https://img.shields.io/badge/-JWT-333333?style=plastic&logo=json%20web%20tokens&logoColor=000000)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=plastic&logo=mongodb)
