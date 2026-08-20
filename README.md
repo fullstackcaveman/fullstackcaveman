@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Product Engineer @ QA Wolf!
+- 💻 &nbsp; Product Engineer @ Fullstackcaveman Software LLC!
 - 🤔 &nbsp; Exploring new technologies:&nbsp; 
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=CC342D)
